@@ -1,0 +1,1047 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zh">
+<head>
+<meta content="209331179" name="dtb:uid"/>
+<meta content="3" name="dtb:depth"/>
+<meta content="mobiunpack.py" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>时间旅行者年鉴（全四册）</text>
+</docTitle>
+<navMap>
+    <navPoint id="np_1" playOrder="1">
+    <navLabel>
+    <text>版权信息</text>
+    </navLabel>
+    <content src="Text/part0002.xhtml"/>
+    </navPoint>
+    <navPoint id="np_2" playOrder="2">
+    <navLabel>
+    <text>序言</text>
+    </navLabel>
+    <content src="Text/part0004.xhtml"/>
+    </navPoint>
+    <navPoint id="np_3" playOrder="3">
+    <navLabel>
+    <text>引言</text>
+    </navLabel>
+    <content src="Text/part0005.xhtml"/>
+    </navPoint>
+    <navPoint id="np_4" playOrder="4">
+    <navLabel>
+    <text>给时间旅行者的十个小建议</text>
+    </navLabel>
+    <content src="Text/part0006.xhtml"/>
+    </navPoint>
+    <navPoint id="np_5" playOrder="5">
+    <navLabel>
+    <text>死亡之船</text>
+    </navLabel>
+    <content src="Text/part0007.xhtml"/>
+    </navPoint>
+    <navPoint id="np_6" playOrder="6">
+    <navLabel>
+    <text>狄拉克海上的涟漪</text>
+    </navLabel>
+    <content src="Text/part0008.xhtml"/>
+      <navPoint id="np_7" playOrder="7">
+      <navLabel>
+      <text>时间旅行的理论与实践笔记</text>
+      </navLabel>
+      <content src="Text/part0009.xhtml"/>
+      </navPoint>
+      <navPoint id="np_8" playOrder="8">
+      <navLabel>
+      <text>时间旅行演讲笔记</text>
+      </navLabel>
+      <content src="Text/part0010.xhtml"/>
+      </navPoint>
+      <navPoint id="np_9" playOrder="9">
+      <navLabel>
+      <text>时间旅行演讲笔记（接上面）</text>
+      </navLabel>
+      <content src="Text/part0011.xhtml"/>
+      </navPoint>
+      <navPoint id="np_10" playOrder="10">
+      <navLabel>
+      <text>听众可能提出的问题</text>
+      </navLabel>
+      <content src="Text/part0012.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_11" playOrder="11">
+    <navLabel>
+    <text>时间海洋里的针</text>
+    </navLabel>
+    <content src="Text/part0013.xhtml"/>
+    </navPoint>
+    <navPoint id="np_12" playOrder="12">
+    <navLabel>
+    <text>另一个故事——浦岛太郎新编</text>
+    </navLabel>
+    <content src="Text/part0014.xhtml"/>
+    </navPoint>
+    <navPoint id="np_13" playOrder="13">
+    <navLabel>
+    <text>黄先生的十亿个绝顶聪明的女儿</text>
+    </navLabel>
+    <content src="Text/part0015.xhtml"/>
+    </navPoint>
+    <navPoint id="np_14" playOrder="14">
+    <navLabel>
+    <text>未来如何变得更好</text>
+    </navLabel>
+    <content src="Text/part0016.xhtml"/>
+    </navPoint>
+    <navPoint id="np_15" playOrder="15">
+    <navLabel>
+    <text>褪色的玫瑰</text>
+    </navLabel>
+    <content src="Text/part0017.xhtml"/>
+      <navPoint id="np_16" playOrder="16">
+      <navLabel>
+      <text>一 无可慰藉之维特</text>
+      </navLabel>
+      <content src="Text/part0018.xhtml"/>
+      </navPoint>
+      <navPoint id="np_17" playOrder="17">
+      <navLabel>
+      <text>二 不速而至之听者</text>
+      </navLabel>
+      <content src="Text/part0019.xhtml"/>
+      </navPoint>
+      <navPoint id="np_18" playOrder="18">
+      <navLabel>
+      <text>三 寻得知己之维特</text>
+      </navLabel>
+      <content src="Text/part0020.xhtml"/>
+      </navPoint>
+      <navPoint id="np_19" playOrder="19">
+      <navLabel>
+      <text>四 终犯罪孽之维特</text>
+      </navLabel>
+      <content src="Text/part0021.xhtml"/>
+      </navPoint>
+      <navPoint id="np_20" playOrder="20">
+      <navLabel>
+      <text>五 苦寻救赎之维特</text>
+      </navLabel>
+      <content src="Text/part0022.xhtml"/>
+      </navPoint>
+      <navPoint id="np_21" playOrder="21">
+      <navLabel>
+      <text>六 寻得慰藉之维特</text>
+      </navLabel>
+      <content src="Text/part0023.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_22" playOrder="22">
+    <navLabel>
+    <text>根斯巴克连续体</text>
+    </navLabel>
+    <content src="Text/part0024.xhtml"/>
+    </navPoint>
+    <navPoint id="np_23" playOrder="23">
+    <navLabel>
+    <text>时间之线</text>
+    </navLabel>
+    <content src="Text/part0025.xhtml"/>
+    </navPoint>
+    <navPoint id="np_24" playOrder="24">
+    <navLabel>
+    <text>三觭龙的夏天</text>
+    </navLabel>
+    <content src="Text/part0026.xhtml"/>
+    </navPoint>
+    <navPoint id="np_25" playOrder="25">
+    <navLabel>
+    <text>世界上最重要的东西</text>
+    </navLabel>
+    <content src="Text/part0027.xhtml"/>
+    </navPoint>
+    <navPoint id="np_26" playOrder="26">
+    <navLabel>
+    <text>时空倒错中的他</text>
+    </navLabel>
+    <content src="Text/part0028.xhtml"/>
+    </navPoint>
+    <navPoint id="np_27" playOrder="27">
+    <navLabel>
+    <text>时间机器</text>
+    </navLabel>
+    <content src="Text/part0029.xhtml"/>
+    </navPoint>
+    <navPoint id="np_28" playOrder="28">
+    <navLabel>
+    <text>年轻的赞法德谨慎过</text>
+    </navLabel>
+    <content src="Text/part0030.xhtml"/>
+    </navPoint>
+    <navPoint id="np_29" playOrder="29">
+    <navLabel>
+    <text>致谢</text>
+    </navLabel>
+    <content src="Text/part0031.xhtml"/>
+    </navPoint>
+    <navPoint id="np_30" playOrder="30">
+    <navLabel>
+    <text>关于编辑和非小说散文的贡献者</text>
+    </navLabel>
+    <content src="Text/part0032.xhtml"/>
+    </navPoint>
+    <navPoint id="np_31" playOrder="31">
+    <navLabel>
+    <text>授权声明</text>
+    </navLabel>
+    <content src="Text/part0033.xhtml"/>
+    </navPoint>
+    <navPoint id="np_32" playOrder="32">
+    <navLabel>
+    <text>版权信息</text>
+    </navLabel>
+    <content src="Text/part0035.xhtml"/>
+    </navPoint>
+    <navPoint id="np_33" playOrder="33">
+    <navLabel>
+    <text>序言</text>
+    </navLabel>
+    <content src="Text/part0037.xhtml"/>
+    </navPoint>
+    <navPoint id="np_34" playOrder="34">
+    <navLabel>
+    <text>引言</text>
+    </navLabel>
+    <content src="Text/part0038.xhtml"/>
+    </navPoint>
+    <navPoint id="np_35" playOrder="35">
+    <navLabel>
+    <text>有关时间旅行的理论与实践</text>
+    </navLabel>
+    <content src="Text/part0039.xhtml"/>
+      <navPoint id="np_36" playOrder="36">
+      <navLabel>
+      <text>加速前进</text>
+      </navLabel>
+      <content src="Text/part0040.xhtml"/>
+      </navPoint>
+      <navPoint id="np_37" playOrder="37">
+      <navLabel>
+      <text>倒回</text>
+      </navLabel>
+      <content src="Text/part0041.xhtml"/>
+      </navPoint>
+      <navPoint id="np_38" playOrder="38">
+      <navLabel>
+      <text>回到现在</text>
+      </navLabel>
+      <content src="Text/part0042.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_39" playOrder="39">
+    <navLabel>
+    <text>一声惊雷</text>
+    </navLabel>
+    <content src="Text/part0043.xhtml"/>
+    </navPoint>
+    <navPoint id="np_40" playOrder="40">
+    <navLabel>
+    <text>人间好时节</text>
+    </navLabel>
+    <content src="Text/part0044.xhtml"/>
+    </navPoint>
+    <navPoint id="np_41" playOrder="41">
+    <navLabel>
+    <text>三十秒以后</text>
+    </navLabel>
+    <content src="Text/part0045.xhtml"/>
+    </navPoint>
+    <navPoint id="np_42" playOrder="42">
+    <navLabel>
+    <text>倒数四十</text>
+    </navLabel>
+    <content src="Text/part0046.xhtml"/>
+    </navPoint>
+    <navPoint id="np_43" playOrder="43">
+    <navLabel>
+    <text>最后的日子</text>
+    </navLabel>
+    <content src="Text/part0047.xhtml"/>
+    </navPoint>
+    <navPoint id="np_44" playOrder="44">
+    <navLabel>
+    <text>烈火长空</text>
+    </navLabel>
+    <content src="Text/part0048.xhtml"/>
+    </navPoint>
+    <navPoint id="np_45" playOrder="45">
+    <navLabel>
+    <text>上等霉菌</text>
+    </navLabel>
+    <content src="Text/part0049.xhtml"/>
+    </navPoint>
+    <navPoint id="np_46" playOrder="46">
+    <navLabel>
+    <text>兵临城下</text>
+    </navLabel>
+    <content src="Text/part0050.xhtml"/>
+    </navPoint>
+    <navPoint id="np_47" playOrder="47">
+    <navLabel>
+    <text>何地何时</text>
+    </navLabel>
+    <content src="Text/part0051.xhtml"/>
+    </navPoint>
+    <navPoint id="np_48" playOrder="48">
+    <navLabel>
+    <text>时空吉普赛人</text>
+    </navLabel>
+    <content src="Text/part0052.xhtml"/>
+    </navPoint>
+    <navPoint id="np_49" playOrder="49">
+    <navLabel>
+    <text>在 望塔上</text>
+    </navLabel>
+    <content src="Text/part0053.xhtml"/>
+    </navPoint>
+    <navPoint id="np_50" playOrder="50">
+    <navLabel>
+    <text>阿蕾西亚与格拉汉姆·贝尔</text>
+    </navLabel>
+    <content src="Text/part0054.xhtml"/>
+    </navPoint>
+    <navPoint id="np_51" playOrder="51">
+    <navLabel>
+    <text>巴巴里海滩的一夜</text>
+    </navLabel>
+    <content src="Text/part0055.xhtml"/>
+    </navPoint>
+    <navPoint id="np_52" playOrder="52">
+    <navLabel>
+    <text>悲剧之镜</text>
+    </navLabel>
+    <content src="Text/part0056.xhtml"/>
+    </navPoint>
+    <navPoint id="np_53" playOrder="53">
+    <navLabel>
+    <text>岁月裂隙</text>
+    </navLabel>
+    <content src="Text/part0057.xhtml"/>
+    </navPoint>
+    <navPoint id="np_54" playOrder="54">
+    <navLabel>
+    <text>伊诺克·索姆斯：19世纪末的回忆</text>
+    </navLabel>
+    <content src="Text/part0058.xhtml"/>
+    </navPoint>
+    <navPoint id="np_55" playOrder="55">
+    <navLabel>
+    <text>致谢</text>
+    </navLabel>
+    <content src="Text/part0059.xhtml"/>
+    </navPoint>
+    <navPoint id="np_56" playOrder="56">
+    <navLabel>
+    <text>关于编辑和非小说散文的贡献者</text>
+    </navLabel>
+    <content src="Text/part0060.xhtml"/>
+    </navPoint>
+    <navPoint id="np_57" playOrder="57">
+    <navLabel>
+    <text>授权声明</text>
+    </navLabel>
+    <content src="Text/part0061.xhtml"/>
+    </navPoint>
+    <navPoint id="np_58" playOrder="58">
+    <navLabel>
+    <text>版权信息</text>
+    </navLabel>
+    <content src="Text/part0063.xhtml"/>
+    </navPoint>
+    <navPoint id="np_59" playOrder="59">
+    <navLabel>
+    <text>序言</text>
+    </navLabel>
+    <content src="Text/part0065.xhtml"/>
+    </navPoint>
+    <navPoint id="np_60" playOrder="60">
+    <navLabel>
+    <text>引言</text>
+    </navLabel>
+    <content src="Text/part0066.xhtml"/>
+    </navPoint>
+    <navPoint id="np_61" playOrder="61">
+    <navLabel>
+    <text>行装：给时间旅行者的时尚指南</text>
+    </navLabel>
+    <content src="Text/part0067.xhtml"/>
+    </navPoint>
+    <navPoint id="np_62" playOrder="62">
+    <navLabel>
+    <text>时钟倒转</text>
+    </navLabel>
+    <content src="Text/part0068.xhtml"/>
+    </navPoint>
+    <navPoint id="np_63" playOrder="63">
+    <navLabel>
+    <text>昨天是星期一</text>
+    </navLabel>
+    <content src="Text/part0069.xhtml"/>
+    </navPoint>
+    <navPoint id="np_64" playOrder="64">
+    <navLabel>
+    <text>有人在吗？</text>
+    </navLabel>
+    <content src="Text/part0070.xhtml"/>
+    </navPoint>
+    <navPoint id="np_65" playOrder="65">
+    <navLabel>
+    <text>鱼夜</text>
+    </navLabel>
+    <content src="Text/part0071.xhtml"/>
+    </navPoint>
+    <navPoint id="np_66" playOrder="66">
+    <navLabel>
+    <text>迷失的清教徒</text>
+    </navLabel>
+    <content src="Text/part0072.xhtml"/>
+    </navPoint>
+    <navPoint id="np_67" playOrder="67">
+    <navLabel>
+    <text>回环悖论</text>
+    </navLabel>
+    <content src="Text/part0073.xhtml"/>
+    </navPoint>
+    <navPoint id="np_68" playOrder="68">
+    <navLabel>
+    <text>奥古斯塔·普里玛</text>
+    </navLabel>
+    <content src="Text/part0074.xhtml"/>
+    </navPoint>
+    <navPoint id="np_69" playOrder="69">
+    <navLabel>
+    <text>生命困局</text>
+    </navLabel>
+    <content src="Text/part0075.xhtml"/>
+    </navPoint>
+    <navPoint id="np_70" playOrder="70">
+    <navLabel>
+    <text>蹿下时钟的老鼠</text>
+    </navLabel>
+    <content src="Text/part0076.xhtml"/>
+    </navPoint>
+    <navPoint id="np_71" playOrder="71">
+    <navLabel>
+    <text>大钟</text>
+    </navLabel>
+    <content src="Text/part0077.xhtml"/>
+      <navPoint id="np_72" playOrder="72">
+      <navLabel>
+      <text>1</text>
+      </navLabel>
+      <content src="Text/part0078.xhtml"/>
+      </navPoint>
+      <navPoint id="np_73" playOrder="73">
+      <navLabel>
+      <text>2</text>
+      </navLabel>
+      <content src="Text/part0079.xhtml"/>
+      </navPoint>
+      <navPoint id="np_74" playOrder="74">
+      <navLabel>
+      <text>3</text>
+      </navLabel>
+      <content src="Text/part0080.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_75" playOrder="75">
+    <navLabel>
+    <text>途中小憩</text>
+    </navLabel>
+    <content src="Text/part0081.xhtml"/>
+    </navPoint>
+    <navPoint id="np_76" playOrder="76">
+    <navLabel>
+    <text>德里</text>
+    </navLabel>
+    <content src="Text/part0082.xhtml"/>
+    </navPoint>
+    <navPoint id="np_77" playOrder="77">
+    <navLabel>
+    <text>来自远方</text>
+    </navLabel>
+    <content src="Text/part0083.xhtml"/>
+    </navPoint>
+    <navPoint id="np_78" playOrder="78">
+    <navLabel>
+    <text>全剧终</text>
+    </navLabel>
+    <content src="Text/part0084.xhtml"/>
+      <navPoint id="np_79" playOrder="79">
+      <navLabel>
+      <text>赫纳雷斯先生的时间冥想</text>
+      </navLabel>
+      <content src="Text/part0085.xhtml"/>
+      </navPoint>
+      <navPoint id="np_80" playOrder="80">
+      <navLabel>
+      <text>赫纳雷斯先生卖出了几样东西</text>
+      </navLabel>
+      <content src="Text/part0086.xhtml"/>
+      </navPoint>
+      <navPoint id="np_81" playOrder="81">
+      <navLabel>
+      <text>赫纳雷斯先生准备睡觉</text>
+      </navLabel>
+      <content src="Text/part0087.xhtml"/>
+      </navPoint>
+      <navPoint id="np_82" playOrder="82">
+      <navLabel>
+      <text>米格尔·洛佩兹·文森特的饥渴</text>
+      </navLabel>
+      <content src="Text/part0088.xhtml"/>
+      </navPoint>
+      <navPoint id="np_83" playOrder="83">
+      <navLabel>
+      <text>米格尔·洛佩兹·文森特选定结局</text>
+      </navLabel>
+      <content src="Text/part0089.xhtml"/>
+      </navPoint>
+      <navPoint id="np_84" playOrder="84">
+      <navLabel>
+      <text>赫纳雷斯先生检点存货</text>
+      </navLabel>
+      <content src="Text/part0090.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_85" playOrder="85">
+    <navLabel>
+    <text>时间的野草</text>
+    </navLabel>
+    <content src="Text/part0091.xhtml"/>
+    </navPoint>
+    <navPoint id="np_86" playOrder="86">
+    <navLabel>
+    <text>维特比人</text>
+    </navLabel>
+    <content src="Text/part0092.xhtml"/>
+    </navPoint>
+    <navPoint id="np_87" playOrder="87">
+    <navLabel>
+    <text>致谢</text>
+    </navLabel>
+    <content src="Text/part0093.xhtml"/>
+    </navPoint>
+    <navPoint id="np_88" playOrder="88">
+    <navLabel>
+    <text>关于编辑和非小说散文的贡献者</text>
+    </navLabel>
+    <content src="Text/part0094.xhtml"/>
+    </navPoint>
+    <navPoint id="np_89" playOrder="89">
+    <navLabel>
+    <text>授权声明</text>
+    </navLabel>
+    <content src="Text/part0095.xhtml"/>
+    </navPoint>
+    <navPoint id="np_90" playOrder="90">
+    <navLabel>
+    <text>版权信息</text>
+    </navLabel>
+    <content src="Text/part0097.xhtml"/>
+    </navPoint>
+    <navPoint id="np_91" playOrder="91">
+    <navLabel>
+    <text>序言</text>
+    </navLabel>
+    <content src="Text/part0099.xhtml"/>
+    </navPoint>
+    <navPoint id="np_92" playOrder="92">
+    <navLabel>
+    <text>引言</text>
+    </navLabel>
+    <content src="Text/part0100.xhtml"/>
+    </navPoint>
+    <navPoint id="np_93" playOrder="93">
+    <navLabel>
+    <text>时间旅行者的音乐指南</text>
+    </navLabel>
+    <content src="Text/part0101.xhtml"/>
+    </navPoint>
+    <navPoint id="np_94" playOrder="94">
+    <navLabel>
+    <text>时间旅行歌单</text>
+    </navLabel>
+    <content src="Text/part0102.xhtml"/>
+    </navPoint>
+    <navPoint id="np_95" playOrder="95">
+    <navLabel>
+    <text>假如</text>
+    </navLabel>
+    <content src="Text/part0103.xhtml"/>
+    </navPoint>
+    <navPoint id="np_96" playOrder="96">
+    <navLabel>
+    <text>随着时间流逝</text>
+    </navLabel>
+    <content src="Text/part0104.xhtml"/>
+    </navPoint>
+    <navPoint id="np_97" playOrder="97">
+    <navLabel>
+    <text>剑鱼虫洞的故事</text>
+    </navLabel>
+    <content src="Text/part0105.xhtml"/>
+    </navPoint>
+    <navPoint id="np_98" playOrder="98">
+    <navLabel>
+    <text>三居美景房</text>
+    </navLabel>
+    <content src="Text/part0106.xhtml"/>
+    </navPoint>
+    <navPoint id="np_99" playOrder="99">
+    <navLabel>
+    <text>顺数二十一</text>
+    </navLabel>
+    <content src="Text/part0107.xhtml"/>
+    </navPoint>
+    <navPoint id="np_100" playOrder="100">
+    <navLabel>
+    <text>鲁布</text>
+    </navLabel>
+    <content src="Text/part0108.xhtml"/>
+    </navPoint>
+    <navPoint id="np_101" playOrder="101">
+    <navLabel>
+    <text>造成了十六段时间循环的房子</text>
+    </navLabel>
+    <content src="Text/part0109.xhtml"/>
+    </navPoint>
+    <navPoint id="np_102" playOrder="102">
+    <navLabel>
+    <text>对抗拉斐特飞行小队</text>
+    </navLabel>
+    <content src="Text/part0110.xhtml"/>
+    </navPoint>
+    <navPoint id="np_103" playOrder="103">
+    <navLabel>
+    <text>摇曳时刻</text>
+    </navLabel>
+    <content src="Text/part0111.xhtml"/>
+    </navPoint>
+    <navPoint id="np_104" playOrder="104">
+    <navLabel>
+    <text>国王的面具</text>
+    </navLabel>
+    <content src="Text/part0112.xhtml"/>
+      <navPoint id="np_105" playOrder="105">
+      <navLabel>
+      <text>1</text>
+      </navLabel>
+      <content src="Text/part0113.xhtml"/>
+      </navPoint>
+      <navPoint id="np_106" playOrder="106">
+      <navLabel>
+      <text>2</text>
+      </navLabel>
+      <content src="Text/part0114.xhtml"/>
+      </navPoint>
+      <navPoint id="np_107" playOrder="107">
+      <navLabel>
+      <text>3</text>
+      </navLabel>
+      <content src="Text/part0115.xhtml"/>
+      </navPoint>
+      <navPoint id="np_108" playOrder="108">
+      <navLabel>
+      <text>4</text>
+      </navLabel>
+      <content src="Text/part0116.xhtml"/>
+      </navPoint>
+      <navPoint id="np_109" playOrder="109">
+      <navLabel>
+      <text>5</text>
+      </navLabel>
+      <content src="Text/part0117.xhtml"/>
+      </navPoint>
+      <navPoint id="np_110" playOrder="110">
+      <navLabel>
+      <text>终篇</text>
+      </navLabel>
+      <content src="Text/part0118.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_111" playOrder="111">
+    <navLabel>
+    <text>瓶中信</text>
+    </navLabel>
+    <content src="Text/part0119.xhtml"/>
+    </navPoint>
+    <navPoint id="np_112" playOrder="112">
+    <navLabel>
+    <text>时空电话</text>
+    </navLabel>
+    <content src="Text/part0120.xhtml"/>
+      <navPoint id="np_113" playOrder="113">
+      <navLabel>
+      <text>1</text>
+      </navLabel>
+      <content src="Text/part0121.xhtml"/>
+      </navPoint>
+      <navPoint id="np_114" playOrder="114">
+      <navLabel>
+      <text>2</text>
+      </navLabel>
+      <content src="Text/part0122.xhtml"/>
+      </navPoint>
+      <navPoint id="np_115" playOrder="115">
+      <navLabel>
+      <text>3</text>
+      </navLabel>
+      <content src="Text/part0123.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_116" playOrder="116">
+    <navLabel>
+    <text>红信日</text>
+    </navLabel>
+    <content src="Text/part0124.xhtml"/>
+    </navPoint>
+    <navPoint id="np_117" playOrder="117">
+    <navLabel>
+    <text>圣主在上</text>
+    </navLabel>
+    <content src="Text/part0125.xhtml"/>
+    </navPoint>
+    <navPoint id="np_118" playOrder="118">
+    <navLabel>
+    <text>午夜地铁</text>
+    </navLabel>
+    <content src="Text/part0126.xhtml"/>
+    </navPoint>
+    <navPoint id="np_119" playOrder="119">
+    <navLabel>
+    <text>时机不对</text>
+    </navLabel>
+    <content src="Text/part0127.xhtml"/>
+    </navPoint>
+    <navPoint id="np_120" playOrder="120">
+    <navLabel>
+    <text>倘若我要离开你</text>
+    </navLabel>
+    <content src="Text/part0128.xhtml"/>
+    </navPoint>
+    <navPoint id="np_121" playOrder="121">
+    <navLabel>
+    <text>叠余历史</text>
+    </navLabel>
+    <content src="Text/part0129.xhtml"/>
+      <navPoint id="np_122" playOrder="122">
+      <navLabel>
+      <text>新鲜血液</text>
+      </navLabel>
+      <content src="Text/part0130.xhtml"/>
+        <navPoint id="np_123" playOrder="123">
+        <navLabel>
+        <text>以下情景永远不会发生</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP22-1-1"/>
+        </navPoint>
+        <navPoint id="np_124" playOrder="124">
+        <navLabel>
+        <text>黄石</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP22-1-2"/>
+        </navPoint>
+        <navPoint id="np_125" playOrder="125">
+        <navLabel>
+        <text>上课要专心</text>
+        </navLabel>
+        <content src="Text/part0130.xhtml#CHP22-1-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_126" playOrder="126">
+      <navLabel>
+      <text>篡改历史</text>
+      </navLabel>
+      <content src="Text/part0131.xhtml"/>
+        <navPoint id="np_127" playOrder="127">
+        <navLabel>
+        <text>奢享帝国</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP22-2-1"/>
+        </navPoint>
+        <navPoint id="np_128" playOrder="128">
+        <navLabel>
+        <text>叠余史伏击</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP22-2-2"/>
+        </navPoint>
+        <navPoint id="np_129" playOrder="129">
+        <navLabel>
+        <text>内政处</text>
+        </navLabel>
+        <content src="Text/part0131.xhtml#CHP22-2-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_130" playOrder="130">
+      <navLabel>
+      <text>精英</text>
+      </navLabel>
+      <content src="Text/part0132.xhtml"/>
+        <navPoint id="np_131" playOrder="131">
+        <navLabel>
+        <text>幻灯片1</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-1"/>
+        </navPoint>
+        <navPoint id="np_132" playOrder="132">
+        <navLabel>
+        <text>幻灯片2</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-2"/>
+        </navPoint>
+        <navPoint id="np_133" playOrder="133">
+        <navLabel>
+        <text>幻灯片3</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-3"/>
+        </navPoint>
+        <navPoint id="np_134" playOrder="134">
+        <navLabel>
+        <text>幻灯片4</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-4"/>
+        </navPoint>
+        <navPoint id="np_135" playOrder="135">
+        <navLabel>
+        <text>幻灯片5</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-5"/>
+        </navPoint>
+        <navPoint id="np_136" playOrder="136">
+        <navLabel>
+        <text>幻灯片6</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-6"/>
+        </navPoint>
+        <navPoint id="np_137" playOrder="137">
+        <navLabel>
+        <text>幻灯片7</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-7"/>
+        </navPoint>
+        <navPoint id="np_138" playOrder="138">
+        <navLabel>
+        <text>幻灯片8</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-8"/>
+        </navPoint>
+        <navPoint id="np_139" playOrder="139">
+        <navLabel>
+        <text>幻灯片9</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-9"/>
+        </navPoint>
+        <navPoint id="np_140" playOrder="140">
+        <navLabel>
+        <text>缓慢康复</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-10"/>
+        </navPoint>
+        <navPoint id="np_141" playOrder="141">
+        <navLabel>
+        <text>空宅</text>
+        </navLabel>
+        <content src="Text/part0132.xhtml#CHP22-3-11"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_142" playOrder="142">
+      <navLabel>
+      <text>时间终末的档案馆</text>
+      </navLabel>
+      <content src="Text/part0133.xhtml"/>
+        <navPoint id="np_143" playOrder="143">
+        <navLabel>
+        <text>幻灯片7</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-1"/>
+        </navPoint>
+        <navPoint id="np_144" playOrder="144">
+        <navLabel>
+        <text>幻灯片8</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-2"/>
+        </navPoint>
+        <navPoint id="np_145" playOrder="145">
+        <navLabel>
+        <text>幻灯片9</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-3"/>
+        </navPoint>
+        <navPoint id="np_146" playOrder="146">
+        <navLabel>
+        <text>幻灯片10</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-4"/>
+        </navPoint>
+        <navPoint id="np_147" playOrder="147">
+        <navLabel>
+        <text>谎言大陆</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-5"/>
+        </navPoint>
+        <navPoint id="np_148" playOrder="148">
+        <navLabel>
+        <text>幻灯片11</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-6"/>
+        </navPoint>
+        <navPoint id="np_149" playOrder="149">
+        <navLabel>
+        <text>幻灯片12</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-7"/>
+        </navPoint>
+        <navPoint id="np_150" playOrder="150">
+        <navLabel>
+        <text>历史导向控制</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-8"/>
+        </navPoint>
+        <navPoint id="np_151" playOrder="151">
+        <navLabel>
+        <text>伪史</text>
+        </navLabel>
+        <content src="Text/part0133.xhtml#CHP22-4-9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_152" playOrder="152">
+      <navLabel>
+      <text>屡次弑佛</text>
+      </navLabel>
+      <content src="Text/part0134.xhtml"/>
+        <navPoint id="np_153" playOrder="153">
+        <navLabel>
+        <text>毕业典礼</text>
+        </navLabel>
+        <content src="Text/part0134.xhtml#CHP22-5-1"/>
+        </navPoint>
+        <navPoint id="np_154" playOrder="154">
+        <navLabel>
+        <text>审讯</text>
+        </navLabel>
+        <content src="Text/part0134.xhtml#CHP22-5-2"/>
+        </navPoint>
+        <navPoint id="np_155" playOrder="155">
+        <navLabel>
+        <text>生死柏林</text>
+        </navLabel>
+        <content src="Text/part0134.xhtml#CHP22-5-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_156" playOrder="156">
+      <navLabel>
+      <text>回归</text>
+      </navLabel>
+      <content src="Text/part0135.xhtml"/>
+        <navPoint id="np_157" playOrder="157">
+        <navLabel>
+        <text>个人军团</text>
+        </navLabel>
+        <content src="Text/part0135.xhtml#CHP22-6-1"/>
+        </navPoint>
+        <navPoint id="np_158" playOrder="158">
+        <navLabel>
+        <text>你的女孩，他的筹码</text>
+        </navLabel>
+        <content src="Text/part0135.xhtml#CHP22-6-2"/>
+        </navPoint>
+        <navPoint id="np_159" playOrder="159">
+        <navLabel>
+        <text>吾之国度</text>
+        </navLabel>
+        <content src="Text/part0135.xhtml#CHP22-6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="np_160" playOrder="160">
+      <navLabel>
+      <text>再播</text>
+      </navLabel>
+      <content src="Text/part0136.xhtml"/>
+        <navPoint id="np_161" playOrder="161">
+        <navLabel>
+        <text>幻灯片1</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-1"/>
+        </navPoint>
+        <navPoint id="np_162" playOrder="162">
+        <navLabel>
+        <text>幻灯片2</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-2"/>
+        </navPoint>
+        <navPoint id="np_163" playOrder="163">
+        <navLabel>
+        <text>幻灯片3</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-3"/>
+        </navPoint>
+        <navPoint id="np_164" playOrder="164">
+        <navLabel>
+        <text>幻灯片4</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-4"/>
+        </navPoint>
+        <navPoint id="np_165" playOrder="165">
+        <navLabel>
+        <text>幻灯片5</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-5"/>
+        </navPoint>
+        <navPoint id="np_166" playOrder="166">
+        <navLabel>
+        <text>幻灯片6</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-6"/>
+        </navPoint>
+        <navPoint id="np_167" playOrder="167">
+        <navLabel>
+        <text>幻灯片7</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-7"/>
+        </navPoint>
+        <navPoint id="np_168" playOrder="168">
+        <navLabel>
+        <text>至善谎言</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-8"/>
+        </navPoint>
+        <navPoint id="np_169" playOrder="169">
+        <navLabel>
+        <text>告别当下</text>
+        </navLabel>
+        <content src="Text/part0136.xhtml#CHP22-7-9"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="np_170" playOrder="170">
+    <navLabel>
+    <text>致谢</text>
+    </navLabel>
+    <content src="Text/part0137.xhtml"/>
+    </navPoint>
+    <navPoint id="np_171" playOrder="171">
+    <navLabel>
+    <text>关于编辑和非小说散文的贡献者</text>
+    </navLabel>
+    <content src="Text/part0138.xhtml"/>
+    </navPoint>
+    <navPoint id="np_172" playOrder="172">
+    <navLabel>
+    <text>授权声明</text>
+    </navLabel>
+    <content src="Text/part0139.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
